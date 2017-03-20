@@ -1,7 +1,6 @@
 # my-project
 
-> A Vue.js project
-
+> A Vue.js project一个专题网站
 ## Build Setup
 
 ``` bash
